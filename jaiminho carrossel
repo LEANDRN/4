@@ -1,0 +1,25 @@
+Algoritmo "semnome"
+// 
+//  
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 29/09/2022
+Var
+// Seção de Declarações das variáveis 
+n1,n2,n3,n4,media:real
+Inicio
+// Seção de Declarações das variáveis
+  escreval ("digite o primeiro numero")
+  leia (n1)
+  escreval
+  leia (n2) ("digite o segundo numero")
+  escreval
+  leia(n3) ("digite o terceiro numero")
+  escreval
+  leia(n4) ("digite o quarto numero")
+  mediua<-(n1+n2+n3+n4)/4
+  escreval("a media é:",media)
+  se media> 6 entao
+  escrevel ("aprovado")
+  se media 6 < entao
+  escreval ("reprovado")
